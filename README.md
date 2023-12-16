@@ -1,0 +1,2 @@
+# shyaa.sh
+free1
